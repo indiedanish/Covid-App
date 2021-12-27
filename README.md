@@ -1,5 +1,5 @@
 ﻿# Covid App 🦠
- # Download App from here 👉 [Covid App](https://drive.google.com/file/d/1dsZDE5ySQKILxMXRde6or1pnD1xalWKb/view?usp=sharing)
+ # Download App from here 👉 [Covid App](https://drive.google.com/file/d/109nILP56GDvXh5Iahqox7drpJwfVt4lH/view?usp=sharing)
  ## Use of Covid App: 
 As the whole world is fighting the pandemic of COVID-19,  Covid-19 app will keep you update regarding total cases in world and other countries. User can add countries to their favourites list and save it for later.
 
