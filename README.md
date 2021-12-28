@@ -6,7 +6,7 @@ As the whole world is fighting the pandemic of COVID-19,  Covid-19 app will keep
 
 World Statistics         | Country Statistics    | All Countries |  Favourites
 :------------------------:|:------------------------:|:------------------------:|:------------------------:
-<img height = "50%" src="https://github.com/cuiisb/assignment-3-indiedanish/blob/main/1.jpeg" /> | <img height = "50%" src="https://github.com/cuiisb/assignment-3-indiedanish/blob/main/2.jpeg" /> | <img height = "50%" src="https://github.com/cuiisb/assignment-3-indiedanish/blob/main/3.jpeg" /> | <img height = "50%" src="https://github.com/cuiisb/assignment-3-indiedanish/blob/main/4.jpeg" />
+<img height = "50%" src="https://github.com/cuiisb/assignment-4-indiedanish/blob/main/1.jpeg" /> | <img height = "50%" src="https://github.com/cuiisb/assignment-4-indiedanish/blob/main/2.jpeg" /> | <img height = "50%" src="https://github.com/cuiisb/assignment-4-indiedanish/blob/main/3.jpeg" /> | <img height = "50%" src="https://github.com/cuiisb/assignment-4-indiedanish/blob/main/4.jpeg" />
 
 ## 🔑 LICENSE
 - This project is licensed under the MIT License - see the [LICENSE](https://github.com/cuiisb/assignment-4-indiedanish/blob/main/LICENSE) file for details
